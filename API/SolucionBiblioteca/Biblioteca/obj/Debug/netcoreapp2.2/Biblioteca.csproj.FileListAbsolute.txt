@@ -1,0 +1,16 @@
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\Biblioteca.deps.json
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\Biblioteca.runtimeconfig.json
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\Biblioteca.runtimeconfig.dev.json
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\Biblioteca.dll
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.RazorAssemblyInfo.cache
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.RazorAssemblyInfo.cs
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.AssemblyInfoInputs.cache
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.AssemblyInfo.cs
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\bin\Debug\netcoreapp2.2\Biblioteca.pdb
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.dll
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.pdb
+C:\Platzi\API\SolucionBiblioteca\Biblioteca\obj\Debug\netcoreapp2.2\Biblioteca.csprojAssemblyReference.cache
